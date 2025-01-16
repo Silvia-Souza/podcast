@@ -28,6 +28,7 @@ Escolhi como musica de fundo gentle quiet and soft piano solo (1483580) e simple
 Prompt usado na criação da imagem: A minimalist portrait of a serious yet sensitive man presenting a podcast. He is shown with a microphone, symbolizing his role as a narrator. The background is black with subtle technological details, emphasizing the modern and innovative nature of the podcast. The man's expression is thoughtful, reflecting the deep and motivational content of the podcast." 
 
 🚀 Resultados
+
 Criação de um podcast motivacional de 120 segundos aproximadamente, ideal para plataformas digitais.
 
 O conteúdo promove uma mensagem de apoio emocional clara, alcançando pessoas que precisam de força e confiança.
@@ -35,4 +36,5 @@ O conteúdo promove uma mensagem de apoio emocional clara, alcançando pessoas q
 Integração harmoniosa entre áudio e visual, gerando impacto positivo.
 
 💭 Reflexão 
+
 Trabalhar com IA e ferramenta criativa como CapCut foi uma experiência enriquecedora. A colaboração entre tecnologia e minha visão pessoal resultou em um conteúdo que não só cumpre seu propósito, mas também demonstra como a tecnologia pode ser uma ferramenta poderosa para causas sociais. O maior desafio foi equilibrar emoção e simplicidade, mas o resultado final reflete minha dedicação e empatia com o tema. O projeto me faz refletir também sobre o quanto me sinto compentente e com sensão de que tudo posso graças a IA.
