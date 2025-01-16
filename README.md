@@ -1,4 +1,4 @@
-#PodCast Motivacional
+PodCast Motivacional
 
 📒 Descrição
 Este projeto é um podcast motivacional criado para ajudar pessoas que enfrentam a depressão, o vício e dificuldades financeiras. Com uma mensagem de força e confiança, o podcast combina reflexões inspiradoras e estratégias práticas para oferecer suporte emocional e incentivar a superação de momentos difíceis.
