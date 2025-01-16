@@ -24,6 +24,8 @@ Utilizei o CapCut para criar o audio com capa, incorporando musicas de fundo, tr
 
 Escolhi como musica de fundo gentle quiet and soft piano solo (1483580) e simple and heartreding instrumental (1288676 para reforçar o tom acolhedor e motivacional.
 
+Prompt usado na criação da imagem: A minimalist portrait of a serious yet sensitive man presenting a podcast. He is shown with a microphone, symbolizing his role as a narrator. The background is black with subtle technological details, emphasizing the modern and innovative nature of the podcast. The man's expression is thoughtful, reflecting the deep and motivational content of the podcast." 
+
 🚀 Resultados
 Criação de um podcast motivacional de 120 segundos aproximadamente, ideal para plataformas digitais.
 
